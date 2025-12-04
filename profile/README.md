@@ -29,5 +29,5 @@ Team members can contribute by:
 For suggestions, ideas, or collaboration, use GitHub Issues or Discussions.
 
 ## Members
-TaH00R (https://github.com/TaH00R)
-Nishchay (https://github.com/nishchay-joshi)
+- TaH00R (https://github.com/TaH00R)
+- Nishchay (https://github.com/nishchay-joshi)
